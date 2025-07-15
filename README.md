@@ -58,9 +58,10 @@ We extended this project into a full-fledged research paper, accepted at **ICCID
 
 ## 🏆 Recognition
 
-✅ **Accepted at ICCIDC 2025** – International Conference on Computational Intelligence, Data Communication  
-📍 Presented insights from the **NFL Big Data Bowl 2025** challenge  
-🎓 Promoted **data-driven sports analysis** in academic research
+- ✅ Accepted at ICCIDC 2025 – International Conference on Computational Intelligence, Data Communication  
+- 📌 Research paper based on this project has been accepted for presentation at the upcoming ICCIDC 2025 conference  
+- 📊 Focused on real-world data from the NFL Big Data Bowl 2025, emphasizing pre-snap analytics and team strategy modeling  
+- 🎓 Represents a step forward in applying data-driven techniques to sports analytics
 
 ---
 
