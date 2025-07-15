@@ -49,7 +49,7 @@ We extended this project into a full-fledged research paper, accepted at **ICCID
 - 📄 **Title:** _Playbook Patterns: A Data-Driven Analysis of Run vs. Pass in the NFL_  
 - 👤 **Author:** Abhishek T  
 - 🏛️ **Affiliation:** KLE Technological University, Belagavi  
-- 📅 **Accepted:** July 2025 | **To be presented at:** *ICCIDC 2025*  
+- 📅 **Accepted:** May 2025 | **To be presented at:** *ICCIDC 2025*  
 - 🔗 [Read the Paper](https://github.com/user-attachments/files/21226309/ResearchPaper.pdf)
 
 > The paper investigates **pre-snap formations** and uses visual EDA to support **classification of offensive plays** in American Football.
